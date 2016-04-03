@@ -12,7 +12,7 @@
 
 `S` Sampled color from canvas where brush-stroke started. (Only sampled once)
 
-`N` Number of brush-dabs that were spawned since stylus-down.
+`N` Number of brush-dabs that were spawned since brush-stroke started.
 
 
 #### Given alpha blending function:
